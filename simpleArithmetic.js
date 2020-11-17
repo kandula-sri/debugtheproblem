@@ -1,4 +1,4 @@
-
+//test comment
 function evalResult(a,b, operation){
     var result = 0;
     switch(operation){
@@ -17,4 +17,4 @@ function evalResult(a,b, operation){
     console.log(result);
   }
 
-  evalResult(10 , 6, '/');
+  evalResult(10 , 6, '*');
